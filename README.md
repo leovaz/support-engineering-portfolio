@@ -120,4 +120,4 @@ Currently focused on digital asset infrastructure — I test on/off-ramp provide
 hands-on and document how they fail in practice, which providers stall on
 withdrawals and when an alternative route is needed.
 
-GitHub: [@neuroxider](https://github.com/neuroxider)
+GitHub: [@leovaz](https://github.com/leovaz)
